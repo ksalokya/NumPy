@@ -41,3 +41,6 @@ a = np.array([1, 2, 3])
 ```
 
 ```
+
+## Tutorial 
+[Numpy Tutorial](https://youtu.be/Rbh1rieb3zc)
